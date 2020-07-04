@@ -1,2 +1,2 @@
-# project-dicegame
+# Roll
 A interesting dice game. 
